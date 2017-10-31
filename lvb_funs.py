@@ -1,3 +1,5 @@
+# Convenience functions for levelable project
+
 def testing():
     print "it works!"
 
